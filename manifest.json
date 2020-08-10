@@ -1,4 +1,4 @@
-{
+ {
   "background": {
     "scripts": ["javascript/background.js"]
   },
